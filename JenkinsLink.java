@@ -10,8 +10,7 @@ System.out.println("This is to create a link between jenkins and github");
     System.out.println(" all set now");
    System.out.println(" lets see now");
    System.out.println(" lets see now");
-   System.out.println(" lets see now");
-  
+   
   
   
   
